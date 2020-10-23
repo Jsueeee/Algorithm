@@ -11,6 +11,7 @@
 * [문자열 재정렬](https://github.com/Jsueeee/Algorithm/blob/master/%EA%B5%AC%ED%98%84/%EB%AC%B8%EC%9E%90%EC%97%B4%20%EC%9E%AC%EC%A0%95%EB%A0%AC.cpp)
 ## BFS/DFS
 ### BFS
+* [최단거리구하기](https://github.com/Jsueeee/Algorithm/blob/master/dfs-bfs/%EC%B5%9C%EB%8B%A8%EA%B1%B0%EB%A6%AC%EA%B5%AC%ED%95%98%EA%B8%B0.cpp) : [GOORM](https://level.goorm.io/exam/43082/%EC%B5%9C%EB%8B%A8-%EA%B1%B0%EB%A6%AC-%EA%B5%AC%ED%95%98%EA%B8%B0/quiz/1)
 * [특정거리의도시찾기](https://github.com/Jsueeee/Algorithm/blob/master/dfs-bfs/%ED%8A%B9%EC%A0%95%EA%B1%B0%EB%A6%AC%EC%9D%98%EB%8F%84%EC%8B%9C%EC%B0%BE%EA%B8%B0.cpp) : [BOJ18352](https://www.acmicpc.net/problem/18352)
 * [경쟁적 전염](https://github.com/Jsueeee/Algorithm/blob/master/dfs-bfs/%EA%B2%BD%EC%9F%81%EC%A0%81%EC%A0%84%EC%97%BC(virus).cpp)(Virus) : [BOJ18405](https://www.acmicpc.net/problem/18405)
 * [인구이동](https://github.com/Jsueeee/Algorithm/blob/master/dfs-bfs/%EC%9D%B8%EA%B5%AC%EC%9D%B4%EB%8F%99.cpp) : [BOJ16234](https://www.acmicpc.net/problem/16234)
@@ -35,4 +36,10 @@
 ## 최단경로
 ### 다익스트라
  * [전보](https://github.com/Jsueeee/Algorithm/blob/master/%EC%B5%9C%EB%8B%A8%EA%B2%BD%EB%A1%9C/%EB%8B%A4%EC%9D%B5%EC%8A%A4%ED%8A%B8%EB%9D%BC/%EC%A0%84%EB%B3%B4.cpp)
+ * [화성탐사](https://github.com/Jsueeee/Algorithm/blob/master/%EC%B5%9C%EB%8B%A8%EA%B2%BD%EB%A1%9C/%EB%8B%A4%EC%9D%B5%EC%8A%A4%ED%8A%B8%EB%9D%BC/%ED%99%94%EC%84%B1%ED%83%90%EC%82%AC.cpp)
 ### 플로이드워셜
+ * [미래도시](https://github.com/Jsueeee/Algorithm/blob/master/%EC%B5%9C%EB%8B%A8%EA%B2%BD%EB%A1%9C/%ED%94%8C%EB%A1%9C%EC%9D%B4%EB%93%9C%EC%9B%8C%EC%85%9C/%EB%AF%B8%EB%9E%98%20%EB%8F%84%EC%8B%9C.cpp) 
+  * 기본, A -> K -> X 경로
+ * [플로이드](https://github.com/Jsueeee/Algorithm/blob/master/%EC%B5%9C%EB%8B%A8%EA%B2%BD%EB%A1%9C/%ED%94%8C%EB%A1%9C%EC%9D%B4%EB%93%9C%EC%9B%8C%EC%85%9C/%ED%94%8C%EB%A1%9C%EC%9D%B4%EB%93%9C.cpp)
+ * [정확한순위](https://github.com/Jsueeee/Algorithm/blob/master/%EC%B5%9C%EB%8B%A8%EA%B2%BD%EB%A1%9C/%ED%94%8C%EB%A1%9C%EC%9D%B4%EB%93%9C%EC%9B%8C%EC%85%9C/%EC%A0%95%ED%99%95%ED%95%9C%EC%88%9C%EC%9C%84.cpp)
+  * 성적 비교, 성적 낮 -> 성적 높 방향그래프로 비교 가능 여부 판단
