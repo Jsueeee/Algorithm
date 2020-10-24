@@ -1,8 +1,11 @@
 # Algorithm
 
+## 그리디
+ * [문자열뒤집기](https://github.com/Jsueeee/Algorithm/blob/master/%EA%B7%B8%EB%A6%AC%EB%94%94/%EB%AC%B8%EC%9E%90%EC%97%B4%EB%92%A4%EC%A7%91%EA%B8%B0.cpp) : [BOJ1439]
+   * 1->0, 0->1
 ## 이진탐색
 * [정렬된배열에서특정수의개수구하기](https://github.com/Jsueeee/Algorithm/blob/master/%EC%9D%B4%EC%A7%84%ED%83%90%EC%83%89/%EC%A0%95%EB%A0%AC%EB%90%9C%EB%B0%B0%EC%97%B4%EC%97%90%EC%84%9C%ED%8A%B9%EC%A0%95%EC%88%98%EC%9D%98%EA%B0%9C%EC%88%98%EA%B5%AC%ED%95%98%EA%B8%B0.cpp)
- * <algorithm> : upper_bound, lower_bound (x,x)범위의 인덱스 찾기
+  * algorithm : upper_bound, lower_bound (x,x)범위의 인덱스 찾기
 ## 구현
 ### 완전탐색
 * 왕실의 나이트
@@ -42,7 +45,7 @@
  * [화성탐사](https://github.com/Jsueeee/Algorithm/blob/master/%EC%B5%9C%EB%8B%A8%EA%B2%BD%EB%A1%9C/%EB%8B%A4%EC%9D%B5%EC%8A%A4%ED%8A%B8%EB%9D%BC/%ED%99%94%EC%84%B1%ED%83%90%EC%82%AC.cpp)
 ### 플로이드워셜
  * [미래도시](https://github.com/Jsueeee/Algorithm/blob/master/%EC%B5%9C%EB%8B%A8%EA%B2%BD%EB%A1%9C/%ED%94%8C%EB%A1%9C%EC%9D%B4%EB%93%9C%EC%9B%8C%EC%85%9C/%EB%AF%B8%EB%9E%98%20%EB%8F%84%EC%8B%9C.cpp) 
-  * 기본, A -> K -> X 경로
+   * 기본, A -> K -> X 경로
  * [플로이드](https://github.com/Jsueeee/Algorithm/blob/master/%EC%B5%9C%EB%8B%A8%EA%B2%BD%EB%A1%9C/%ED%94%8C%EB%A1%9C%EC%9D%B4%EB%93%9C%EC%9B%8C%EC%85%9C/%ED%94%8C%EB%A1%9C%EC%9D%B4%EB%93%9C.cpp)
  * [정확한순위](https://github.com/Jsueeee/Algorithm/blob/master/%EC%B5%9C%EB%8B%A8%EA%B2%BD%EB%A1%9C/%ED%94%8C%EB%A1%9C%EC%9D%B4%EB%93%9C%EC%9B%8C%EC%85%9C/%EC%A0%95%ED%99%95%ED%95%9C%EC%88%9C%EC%9C%84.cpp)
-  * 성적 비교, 성적 낮 -> 성적 높 방향그래프로 비교 가능 여부 판단
+   * 성적 비교, 성적 낮 -> 성적 높 방향그래프로 비교 가능 여부 판단
