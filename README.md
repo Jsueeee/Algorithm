@@ -1,5 +1,8 @@
 # Algorithm
 
+## 이진탐색
+* [정렬된배열에서특정수의개수구하기](https://github.com/Jsueeee/Algorithm/blob/master/%EC%9D%B4%EC%A7%84%ED%83%90%EC%83%89/%EC%A0%95%EB%A0%AC%EB%90%9C%EB%B0%B0%EC%97%B4%EC%97%90%EC%84%9C%ED%8A%B9%EC%A0%95%EC%88%98%EC%9D%98%EA%B0%9C%EC%88%98%EA%B5%AC%ED%95%98%EA%B8%B0.cpp)
+ * <algorithm> : upper_bound, lower_bound (x,x)범위의 인덱스 찾기
 ## 구현
 ### 완전탐색
 * 왕실의 나이트
